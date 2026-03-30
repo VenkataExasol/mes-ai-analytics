@@ -1,0 +1,62 @@
+[
+    {
+        "file": "plant_P01.xlsx",
+        "schema": "event",
+        "mapping_type": "event"
+    },
+    {
+        "file": "plant_P02.xlsx",
+        "schema": "kpi",
+        "mapping_type": "kpi"
+    },
+    {
+        "file": "plant_P03.xlsx",
+        "schema": "production",
+        "mapping_type": "production"
+    },
+    {
+        "file": "plant_P04.xlsx",
+        "schema": "time",
+        "mapping_type": "time"
+    },
+    {
+        "file": "plant_P05.xlsx",
+        "schema": "quality",
+        "mapping_type": "quality"
+    },
+    {
+        "file": "plant_P06.xlsx",
+        "schema": "event",
+        "mapping_type": "event"
+    },
+    {
+        "file": "plant_P07.xlsx",
+        "schema": "kpi",
+        "mapping_type": "kpi"
+    },
+    {
+        "file": "plant_P08.xlsx",
+        "schema": "production",
+        "mapping_type": "production"
+    },
+    {
+        "file": "plant_P09.xlsx",
+        "schema": "time",
+        "mapping_type": "time"
+    },
+    {
+        "file": "plant_P10.xlsx",
+        "schema": "quality",
+        "mapping_type": "quality"
+    },
+    {
+        "file": "plant_P11.xlsx",
+        "schema": "event",
+        "mapping_type": "event"
+    },
+    {
+        "file": "plant_P12.xlsx",
+        "schema": "kpi",
+        "mapping_type": "kpi"
+    }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "plant_id": "P01",
+    "source_type": "event-based",
+    "payload_ref": "plants/plant_P01.xlsx",
+    "ingest_batch": "batch_001"
+  }
+]

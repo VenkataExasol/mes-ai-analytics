@@ -1,0 +1,9 @@
+hackathon-env/
+__pycache__/
+*.pyc
+*.log
+*.zip
+.exanano/
+*.xlsx
+*.csv
+.env

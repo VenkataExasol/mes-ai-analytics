@@ -1,0 +1,62 @@
+[
+    {
+        "file": "plant_P01.xlsx",
+        "schema": "event",
+        "confidence": 0.6
+    },
+    {
+        "file": "plant_P02.xlsx",
+        "schema": "kpi",
+        "confidence": 0.8
+    },
+    {
+        "file": "plant_P03.xlsx",
+        "schema": "production",
+        "confidence": 0.75
+    },
+    {
+        "file": "plant_P04.xlsx",
+        "schema": "time",
+        "confidence": 0.75
+    },
+    {
+        "file": "plant_P05.xlsx",
+        "schema": "quality",
+        "confidence": 0.75
+    },
+    {
+        "file": "plant_P06.xlsx",
+        "schema": "event",
+        "confidence": 0.6
+    },
+    {
+        "file": "plant_P07.xlsx",
+        "schema": "kpi",
+        "confidence": 0.8
+    },
+    {
+        "file": "plant_P08.xlsx",
+        "schema": "production",
+        "confidence": 0.75
+    },
+    {
+        "file": "plant_P09.xlsx",
+        "schema": "time",
+        "confidence": 0.75
+    },
+    {
+        "file": "plant_P10.xlsx",
+        "schema": "quality",
+        "confidence": 0.75
+    },
+    {
+        "file": "plant_P11.xlsx",
+        "schema": "event",
+        "confidence": 0.6
+    },
+    {
+        "file": "plant_P12.xlsx",
+        "schema": "kpi",
+        "confidence": 0.8
+    }
+]

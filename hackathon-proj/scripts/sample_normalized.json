@@ -1,0 +1,17 @@
+[
+  {
+    "plant_name": "Plant 01",
+    "date": "2026-03-26",
+    "planned_time_min": 480,
+    "run_time_min": 450,
+    "downtime_min": 30,
+    "total_units": 10000,
+    "good_units": 9800,
+    "rejected_units": 200,
+    "availability": 0.92,
+    "performance": 0.88,
+    "quality": 0.97,
+    "data_source_type": "time-based",
+    "oee_normalized": 0.7853
+  }
+]
